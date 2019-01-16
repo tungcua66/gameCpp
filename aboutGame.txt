@@ -1,0 +1,39 @@
+*******Author*******
+Name: TRAN Manh Bach Tung
+L2-Informatique
+
+*****AboutGame****
+Name: Final Mission
+Type: 2D survival
+Size: 68,0 Mo
+Date Realease: 19/12/2018
+
+This game is coded by C++ on Visual Studio 2013
+List of files:  main.cpp
+				BulletObject.c, BulletObject.h
+				CommonFunction.c, CommonFunction.h
+				ExplosionObject.c, ExplosionObject.c
+				MainObject.c, MainObject.h
+				BaseObject.c, BaseObject.h
+				ThreatsObject.c, ThreatsObject.h
+				
+You are on an plane and your mission is to kill enemy as many as possible and dont let be died. Game is over when you
+hit on enemy or be taken down by their ammo. You cannot fly too low or pass over the border of screen. 
+Use arrows(UP, DOWN, LEFT, RIGHT) to move, lef_click for laser and right-click for sphere.
+
+****License****
+And all audio, image files were download legally on google.
+
+****CoppyRight****
+Copyright © 2018 by TRAN Manh Bach Tung
+
+All rights reserved. No part of this product may be reproduced, distributed, or transmitted in any form or by any means, 
+including photocopying, recording, or other electronic or mechanical methods, without the prior written permission 
+of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial 
+uses permitted by copyright law. For permission requests, write to the publisher, addressed “Attention: Permissions Coordinator,” 
+at the address below.
+
+TRAN Manh Bach Tung
+L2-Informatique
+Université Lorraine, Nancy
+email: tran-manh-bach-tung9@etu.univ-lorraine.fr
